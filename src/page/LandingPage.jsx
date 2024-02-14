@@ -36,7 +36,7 @@ function LandingPage() {
             </div>
           </div>
           <div className="col-lg-6 col-md-12 pe-4">
-           <img src="https://elements-cover-images-0.imgix.net/a7a539e8-6b75-4a70-9347-5ba668dc7de7?auto=compress%2Cformat&fit=max&w=900&s=856ef382dd7244f38d79bf4fbdefa0e6" alt="" />
+           <img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fresources.biginterview.com%2Finterviews-101%2Finterview-anxiety%2F&psig=AOvVaw1SFPLxqsDmOGYMaU-KYua3&ust=1708022428812000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCLi9wcO9q4QDFQAAAAAdAAAAABAE" alt="" />
           </div>
         </div>
       </div>
