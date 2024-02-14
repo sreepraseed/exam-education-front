@@ -1,1 +1,1 @@
-export const SERVER_URL="https://std-reg-back-end.onrender.com"
+export const SERVER_URL="https://exam-education-backend.onrender.com"
